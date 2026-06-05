@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warmth-found-in-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Warmth Found In You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-found-in-you/) |
+| **Get License** | [License this song: Warmth Found In You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-found-in-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the midnight melting in your eyes
+> Shadows dancing where the firelight dies
+> You pull me close and let the distance fade
+> Wrapped in the glowing promises we made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
