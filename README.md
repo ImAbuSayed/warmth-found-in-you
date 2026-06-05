@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warmth-found-in-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Warmth Found In You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-found-in-you/) |
+| **Get License** | [Obtain a Music License for Warmth Found In You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warmth-found-in-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7c0c9648b7a51d90cc221518a0ac926d56cc43f1c191b29a2233aaabc6cb2e2c` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
